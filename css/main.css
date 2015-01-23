@@ -2,13 +2,18 @@ html {
 	background-color: #B2E0F0;
 	font-family: Helvetica;
 	color: #FCFFFF; /*This is the color for fonts*/
+	background-image: radial-gradient(red, blue) ;
+	height: 100vh;
 }
 h1{
+	border-style: outset;
+	border-color: white;
 	font-size: 5rem;
 	text-align: center;
 }
 p{
+	border-style: outset;
+	border-color: white;
 	font-size: 2rem;
 	text-align: center;
 }
-
